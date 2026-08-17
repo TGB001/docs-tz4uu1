@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-nvn30a.pulaucuanwin.sbs/sitemap.xml
